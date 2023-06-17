@@ -10,12 +10,12 @@ Follow these steps to set up the application:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/email-verification.git
+   git clone https://github.com/alalUDDIN123/email_verification.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd email-verification
+   cd email_verification
    ```
 
 3. Set up the backend:
